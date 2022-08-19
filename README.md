@@ -1,4 +1,4 @@
-# uno game
+# uno go
 
 # Game initialization
 
